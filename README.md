@@ -3,4 +3,4 @@ Android 15 kernel for Oneplus 6/T crDroid with KSU Next from rifsxd, SUSFS from 
 
 If you want it without SUSFS there are official builds:
 
-https://github.com/TJ-Releases/crDroidPlusPlus_kernel/
+https://github.com/TJ-Releases/crDroidPlusPlus_kernel/releases
